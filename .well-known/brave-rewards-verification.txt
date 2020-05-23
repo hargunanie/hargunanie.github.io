@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hargunanie.github.io
+Token: c69e3219387d6cb2af1f5d6757f073c43b33c520cb91a19e8904e0fc6c4a7455
