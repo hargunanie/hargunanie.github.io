@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hargunanie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hargunanie.github.io
+  * I am hargunanie (https://keybase.io/hargunanie) on keybase.
+  * I have a public key ASCEX8zKiJ8RPO0JXkoIULopwl-gJ8fl-lfXWBlzNzRnZwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206011d6209a17fbd9ea6af3e9ee9097c3d6679d187b9406290b5ed7956836da110a",
+      "host": "keybase.io",
+      "kid": "0120845fccca889f113ced095e4a0850ba29c25fa027c7e5fa57d7581973373467670a",
+      "uid": "03ee56475c9835b090694ec82cca1519",
+      "username": "hargunanie"
+    },
+    "merkle_root": {
+      "ctime": 1597085034,
+      "hash": "243873331f83141fe30d07705a1a6514b003906b86989c12b024243795cbc794f4207fa3c28c2a1f93c5fe1fc2cef8cfffbdbef25e351f59305f065c30f5d7b2",
+      "hash_meta": "a9ea64f7c439978ec7ee9bd7a34c278d937bfa8e4e8b2e64a3e40e1565d2927f",
+      "seqno": 17241994
+    },
+    "service": {
+      "entropy": "1bHE/KGFR+dt6zSmEOsBVn2c",
+      "hostname": "hargunanie.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1597085074,
+  "expire_in": 504576000,
+  "prev": "055a59d0e2aec135985d36262773ca471ef648790993d49a65e1ebddd0cb3551",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghF/MyoifETztCV5KCFC6KcJfoCfH5fpX11gZczc0Z2cKp3BheWxvYWTESpcCCcQgBVpZ0OKuwTWYXTYmJ3PKRx72SHkJk9SaZeHr3dDLNVHEIM6ldDawNi5pkyViBObDYsONbJ+4oU91CytWdak8ueiwAgHCo3NpZ8RAoBuflcuxwjMegoDFbzOfMo/1KmjY+CLXAdlNAs636IMT5H1LYIqGs3k4Ta2+DXeR2gpgFqzAwzixbgFy3zWRD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICWb1ODoxhRVNL5LcJqOpv+s6AXf+OuoxCsyXhPdk84zo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hargunanie
+
+==================================================================
